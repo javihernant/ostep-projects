@@ -1,0 +1,4 @@
+README.md
+run-tests.sh
+run-xv6-command.exp
+xv6-edit-makefile.sh
